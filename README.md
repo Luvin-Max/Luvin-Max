@@ -12,14 +12,9 @@
 - 🔭 Currently architecting **VazhiTraX** - A revolutionary transit solution  
 - 🌱 Learning **Ethical Hacking, Blockchain Security, and Cloud Pentesting**  
 - 💡 Passionate about creating accessible, performant web experiences  
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!  
-
----
-### 👀 About Me
-- 🔭 Currently working on **VazhiTraX** project  
-- 🌱 Learning **Ethical Hacking**, Cybersecurity, and Programming Languages  
 - 💞️ Looking to collaborate on web & application development projects  
 - 📫 Reach me at: **a.luvin@gmail.com**  
 
 ---
+
 
